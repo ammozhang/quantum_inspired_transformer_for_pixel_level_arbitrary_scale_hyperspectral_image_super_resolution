@@ -9,5 +9,5 @@ Thanks for your attention. This is the official repository for the paper "Quantu
 ![](./qits.png)
 
 ### Submission History
-[23/2/2024]reject by IJCAI'24 <br>
-[17/1/2024]submit to IJCAI'24
+* [23/2/2024]reject by IJCAI'24 <br>
+* [17/1/2024]submit to IJCAI'24
